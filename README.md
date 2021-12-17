@@ -32,6 +32,4 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=achasan&show_icons=true&locale=en" alt="achasan" />
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achasan&show_icons=true&locale=en&layout=compact" alt="achasan" />
 </p>
