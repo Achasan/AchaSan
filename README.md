@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Achasan!</h1>
-<h3 align="left">😎 A passionate developer from South Korea</h3>
+<h2 align="left">😎 A passionate developer from South Korea</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
