@@ -1,5 +1,4 @@
 <h3 align="left">Hi 👋, I'm Achasan!</h1>
-<h4 align="left">😎 A passionate developer from South Korea</h2>
 
 <h4 align="left"></h3>
 <p align="left">
