@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, I'm Achasan!</h1>
 
-<h4 align="left"></h3>
+<h4 align="left">💻 Studying to be a passionate developer..</h3>
 <p align="left">
 </p>
 
