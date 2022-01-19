@@ -1,6 +1,4 @@
-<h3 align="left">Hi 👋, I'm Achasan!</h1>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAchasan&count_bg=%2379C83D&title_bg=%23898989&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h3 align="left">안녕하세요! 👋</h1>
 
 <h4 align="left">💻 Studying to be a passionate developer..</h3>
 <p align="left">
